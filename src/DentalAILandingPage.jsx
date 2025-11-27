@@ -44,13 +44,13 @@ const GALLERY_HIGHLIGHTS = [
     title: 'Team-Wide Consistency',
     caption: 'Front-desk, office manager, or doctor—everyone sounds aligned and compliant.',
     image:
-      'https://images.unsplash.com/photo-1520012218364-4f56e55c30b5?auto=format&fit=crop&w=900&q=80',
+      'https://images.unsplash.com/photo-1551601651-2a8555f1a136?auto=format&fit=crop&w=900&q=80',
   },
   {
     title: 'Trust-Building Follow Ups',
     caption: 'Layer in gratitude, next steps, and reassurance in one polished reply.',
     image:
-      'https://images.unsplash.com/photo-1506738995538-611f3d52f3a1?auto=format&fit=crop&w=900&q=80',
+      'https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=900&q=80',
   },
 ];
 
