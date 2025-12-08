@@ -4,9 +4,9 @@
   "description": "Landing page for The 5-Minute AI Review Responder Kit",
   "type": "module",
   "scripts": {
-    "dev": "node node_modules/vite/bin/vite.js",
-    "build": "node node_modules/vite/bin/vite.js build",
-    "preview": "node node_modules/vite/bin/vite.js preview"
+    "dev": "vite",
+    "build": "npx vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
